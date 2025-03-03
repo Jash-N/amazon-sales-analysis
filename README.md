@@ -25,9 +25,9 @@ This project explores Amazon sales data using Python for data cleaning and Explo
   
     ![top_10_product_categories](https://github.com/user-attachments/assets/7ecdb669-3b3d-4e4e-889e-93e52fdfa993)
 
-- Lower-cost products tend to receive significant discounts, making them attractive customers.
+- Lower-cost products tend to receive significant discounts, making them attractive to customers.
 
-- Higher discount percentages did not consistently lead to better product ratings, steeper discounts were associated with a decline in customer rating in some cases.
+- Higher discount percentages **did not** consistently lead to better product ratings, steeper discounts were associated with a decline in customer rating in some cases.
 
     ![image](https://github.com/user-attachments/assets/16b8836e-aed8-49b0-abb5-9278c2f4eb65)
 - Among all categories, Computers & Accessories | USB to USB Adapters stood out as the most heavily discounted.
