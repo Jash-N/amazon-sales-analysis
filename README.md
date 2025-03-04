@@ -11,13 +11,13 @@ This project explores Amazon sales data using Python for data cleaning and Explo
 
 ## Tools Used
 - **Python (Jupyter Notebook)**: Pandas, Matplotlib
-- **Tableau**: Dashboard creation
-- **GitHub**: Project hosting
+- **Tableau (Tableau)**: Dashboard creation
+- **GitHub (Github)**: Project hosting
 
 ## Data Cleaning/Prepareation 
-1. Converting column datatypes to required datatypes for easy data manipulation.
-2. Checking and manage missing values.
-3. Check for duplicate data.
+- Converting column datatypes to required datatypes for easy data manipulation.
+- Checking and manage missing values.
+- Check for duplicate data.
 
 ## Key Insights
 - Identified sales trends across different product categories.
