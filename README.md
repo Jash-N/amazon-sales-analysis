@@ -34,6 +34,13 @@ This project explores Amazon sales data using Python for data cleaning and Explo
 
     ![image](https://github.com/user-attachments/assets/49a7d800-8326-4d33-999e-91dac486bb14)
 
+## Suggested Actions
+- Optimize Inventory for High-Demand Categories
+      -Capitalize on the popularity of USB cables (top-selling product) by increasing stock levels, bundle with complementary items (e.g., adapters) to enhance sales momentum.
+
+- Conduct testing on discount percentages for low-cost items to identify thresholds that maximize sales volume without negatively impacting customer ratings such as avoiding steep discounts linked to rating declines.
+
+- Improving Post-purchase experience by addressing potential quality or expectation gaps by enhancing product descriptions using customer feedback.
 
 ## Contributions & Contact
 If you have any feedback or questions, feel free to connect!
